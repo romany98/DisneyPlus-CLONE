@@ -1,6 +1,8 @@
 # DisneyPlus CLONE
 This is a code repository for website 'DisneyPlus CLONE'
 
+<img src="public/images/dc.png">
+
 using 
 - React
 - Firebase 
